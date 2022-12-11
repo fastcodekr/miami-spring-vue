@@ -50,6 +50,8 @@ dependencies {
     implementation group: 'javax.validation', name: 'validation-api'
     implementation "com.moowork.gradle:gradle-node-plugin:1.2.0"
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    implementation group: 'org.apache.commons', name: 'commons-lang3', version: '3.10'
+
 }
 
 /**
