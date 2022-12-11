@@ -1,4 +1,4 @@
-package kr.fastcode.app;
+package kr.fastcode.app.uss.mpe.ent;
 
 import lombok.*;
 
